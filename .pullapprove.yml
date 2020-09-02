@@ -1,0 +1,10 @@
+version: 3
+groups:
+  pullapprove:
+    conditions:
+    - "'.pullapprove.yml' in files"
+    reviewers:
+      teams:
+      - admins
+    reviews:
+      required: 1

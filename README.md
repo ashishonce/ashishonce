@@ -4,9 +4,10 @@
 - 🔭 I’m currently working on ... NPM
 - 🌱 I’m currently learning ... Empathy
 - 👯 I’m looking to collaborate on ... Open Source
-- 🤔 I’m looking for help with ... building a service
+
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... LinkedIn
+
 
 
 <!--

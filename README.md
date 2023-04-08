@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm ashishonce</h1>
-<h3 align="center">A developer</h3>
+<h3 align="center">A Problem Solver</h3>
 
+<h3> Topics I talk About </h3>
 
-
-
-- 🔭 Managing team of Wizards ! 
+- Solving Problems 
+- Architecture and Designs
+- Distributed Systems 
+-  Azure and AWS
 - 🌱 Orchestrating Empathy
 
 

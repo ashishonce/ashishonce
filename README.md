@@ -14,7 +14,7 @@
 
 ### Zing Bing
 
-[ZingBing.in](https://www.zingbing.com)
+[ZingBing.in](https://www.zingbing.in)
 
 
 ### ML-Ops 
